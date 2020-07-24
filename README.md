@@ -1,5 +1,7 @@
 ### Hi there 👋
+This is [Sagor Sarker](https://www.linkedin.com/in/sagor-sarker/)
 
+An enthusiastic AI, ML and NLP learner
 <!--
 **sagorbrur/sagorbrur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
