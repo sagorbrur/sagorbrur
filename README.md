@@ -4,7 +4,7 @@ This is [Sagor Sarker](https://www.linkedin.com/in/sagor-sarker/)
 An enthusiastic NLP, AI, ML learner
 
 #### Last Published Repository
-- [bangla-arxiv-papers](https://github.com/sagorbrur/bangla-arxiv-papers)
+- [bangla-arxiv-cs-papers](https://github.com/sagorbrur/bangla-arxiv-papers)
 <!--
 **sagorbrur/sagorbrur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
